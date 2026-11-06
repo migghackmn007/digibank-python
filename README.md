@@ -29,9 +29,3 @@ python main.py
 ```
 
 ---
-
-Seus dados salvos agora estão bem apresentados! Depois de colar esse texto, é só rolar até o final da página e clicar no botão verde **Commit changes...** para salvar tudo.
-
-<FollowUp>
-Assim que salvar o README, o seu portfólio no GitHub estará 100% pronto! O próximo passo é o LinkedIn. Você quer ajuda para **adicionar o curso do SENAI** lá ou prefere que eu te ajude a **escrever o resumo profissional** do seu perfil?
-</FollowUp>
